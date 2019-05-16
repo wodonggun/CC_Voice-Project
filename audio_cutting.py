@@ -29,3 +29,6 @@ cutting_range = 2
 audio_cutting(time_stamp,cutting_range)
 
 print("오디오 커팅 종료")
+
+
+# Reference (https://github.com/jiaaro/pydub)
